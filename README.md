@@ -4,13 +4,15 @@ This is a short research for eligible Argent wallets for the upcoming Optimism a
 ## Background:
 "The Optimism Foundation’s Airdrop #1 rewards those who have been instrumental as early adopters and active users of projects in the Optimism ecosystem. To celebrate our Ethereum roots, we also want to welcome active L1 participants who can help scale Ethereum’s innovations, culture, and values to Layer 2. In total, 248,699 addresses are eligible to claim OP in this initial airdrop." More can be found [here](https://community.optimism.io/docs/governance/airdrop-1/)
 
-The Argent wallet is a smart wallet on Ethereum and is also availble on L2 like Zksync. More info can be found [here](https://www.argent.xyz). The Argent smart wallet contracts are included in the snapshot for the upcoming Optimism airdrop. 
+The Argent wallet is a smart wallet on Ethereum and is also availble on L2 like Zksync. More info can be found [here](https://www.argent.xyz). 
+The Argent smart wallet contracts are included in the snapshot for the upcoming Optimism airdrop. 
 
 ## The problem
-The Argent smart contract wallets are not deployed on L2 chains and therefor they could not claim the $OP airdrop on the Optimistic L2 chain.
-How much Argent smart wallet users will miss the upcoming $OP airdrop. 
+The Argent smart contract wallets are not deployed on L2 chains and therefore they could not claim the $OP airdrop on the Optimistic L2 chain.
+How much Argent smart wallet users will miss the upcoming $OP airdrop ?
 
-First is to line up how much Argent users they are:
+First is to line up how much Argent wallets are created and then to extract the eligible wallets by using this [tool](https://github.com/miguelmota/optimism-airdrop-checker)
+
 There are 5 distinct Argent contracts that are used to create the user's smart wallet contracts on Ethereum.
 
 1. [0x851cc731ce1613ae4fd8ec7f61f4b350f9ce1020](https://etherscan.io/address/0x851cc731ce1613ae4fd8ec7f61f4b350f9ce1020)
@@ -28,10 +30,11 @@ The script can be found here: [dune script](https://dune.com/queries/832318)
 
 ## Conclusion:
 
-* A total of 118 addresses are eligible for the upcoming Optimism airdrop. 
+* In total of 118 addresses are eligible for the upcoming Optimism airdrop. 
 
 * 109 of the 118 are eligible for 1114 $OP
 * 9 of the 118 are eligible for 727 $OP
+In total of 127.969 $OP
 
 Due the problem that the Argent smart wallets are not deployed on Optimism they would not be able to claim the airdrop. A possibility to let the Argent users sign and proof that they are the owner of the walllet and let the claim the $OP to another EOA. 
 
