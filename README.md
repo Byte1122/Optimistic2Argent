@@ -34,7 +34,7 @@ The script can be found here: [dune script](https://dune.com/queries/832318)
 
 * 109 of the 118 are eligible for 1114 $OP
 * 9 of the 118 are eligible for 727 $OP
-In total of 127.969 $OP
+In total of 127,969 $OP
 
 Due the problem that the Argent smart wallets are not deployed on Optimism they would not be able to claim the airdrop. A possibility to let the Argent users sign and proof that they are the owner of the walllet and let the claim the $OP to another EOA. 
 
