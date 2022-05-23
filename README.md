@@ -21,7 +21,7 @@ There are 5 distinct Argent contracts that are used to create the user's smart w
 
 5. [0x1d09a6D1C45d1a9Eb8CB8A8354BCd78e225f06d3](https://etherscan.io/address/0x1d09a6D1C45d1a9Eb8CB8A8354BCd78e225f06d3)
 
-Querying the 5 contracts with a script on Dune will result in a list of **68.459** smart wallet contracts (05-22-2022)
+Querying the 5 contracts with a script on Dune will result in a list of [**68.459**](https://github.com/Byte1122/Optimistic2Argent/blob/main/total_argentwallets_OP) smart wallet contracts (05-22-2022)
 The script can be found here: [dune script](https://dune.com/queries/832318)
 
 **Eligble addresses:**
